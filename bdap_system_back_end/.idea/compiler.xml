@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bdap-common" />
+        <module name="bdap_user_operate" />
+        <module name="bdap-security-oauth2" />
+        <module name="bdap-gateway" />
+        <module name="bdap_administration" />
+        <module name="bdap_user_traffic" />
+        <module name="bdap-ott-services" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bdap-common" target="1.8" />
+      <module name="bdap-gateway" target="1.8" />
+      <module name="bdap-ott-services" target="1.8" />
+      <module name="bdap-security-oauth2" target="1.8" />
+      <module name="bdap_administration" target="1.8" />
+      <module name="bdap_common" target="1.8" />
+      <module name="bdap_system_back_end" target="1.8" />
+      <module name="bdap_user_operate" target="1.8" />
+      <module name="bdap_user_traffic" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bdap-common" options="-parameters" />
+      <module name="bdap-gateway" options="-parameters" />
+      <module name="bdap-ott-services" options="-parameters" />
+      <module name="bdap-security-oauth2" options="-parameters" />
+      <module name="bdap_administration" options="-parameters" />
+      <module name="bdap_common" options="-parameters" />
+      <module name="bdap_system_back_end" options="-parameters" />
+      <module name="bdap_user_operate" options="-parameters" />
+      <module name="bdap_user_traffic" options="-parameters" />
+    </option>
+  </component>
+</project>

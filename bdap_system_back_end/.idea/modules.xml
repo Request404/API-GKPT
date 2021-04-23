@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bdap-common/bdap-common.iml" filepath="$PROJECT_DIR$/bdap-common/bdap-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap-gateway/bdap-gateway.iml" filepath="$PROJECT_DIR$/bdap-gateway/bdap-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap-ott-services/bdap-ott-services.iml" filepath="$PROJECT_DIR$/bdap-ott-services/bdap-ott-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap-security-oauth2/bdap-security-oauth2.iml" filepath="$PROJECT_DIR$/bdap-security-oauth2/bdap-security-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap_administration/bdap_administration.iml" filepath="$PROJECT_DIR$/bdap_administration/bdap_administration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap_system_back_end.iml" filepath="$PROJECT_DIR$/bdap_system_back_end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap_user_operate/bdap_user_operate.iml" filepath="$PROJECT_DIR$/bdap_user_operate/bdap_user_operate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bdap_user_traffic/bdap_user_traffic.iml" filepath="$PROJECT_DIR$/bdap_user_traffic/bdap_user_traffic.iml" />
+    </modules>
+  </component>
+</project>
